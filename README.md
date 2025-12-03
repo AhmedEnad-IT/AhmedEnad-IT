@@ -1,14 +1,3 @@
-Here is your **dark, hacker-themed, fully animated GitHub Profile README** in **pure RAW Markdown code** — exactly as you should paste it inside your:
-
-```
-AhmedEnad-IT/README.md
-```
-
----
-
-# ✅ **RAW README.md (Copy & Paste Everything Below)**
-
-````md
 # 🐍💻 **Ahmed Enad — Cybersecurity | Infrastructure | Full-Stack Engineering**
 
 <div align="center">
