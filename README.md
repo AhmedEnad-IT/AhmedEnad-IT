@@ -83,9 +83,6 @@
 
 ---
 
-
-# 🟢 **Hacker Terminal**
-
 ```bash
 ┌──(Ahmed㉿GitHub)-[~/projects]
 └─$ ls
@@ -100,7 +97,7 @@
 
 # 🔗 **Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ahmed-nabeel-4a3a33a0/))
 
 ---
 
