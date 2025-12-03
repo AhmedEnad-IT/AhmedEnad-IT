@@ -14,7 +14,7 @@
 └─$ whoami
 > IT Infrastructure Architect
 > Cybersecurity & VAPT Engineer
-> Full-Stack Developer (Node | Next.js | NestJS | Prisma)
+> Developer Enthusiast (Node | Next.js | NestJS | Prisma)
 
 └─$ cat mission.txt
 > Build secure systems.
