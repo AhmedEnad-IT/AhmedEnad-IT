@@ -83,12 +83,6 @@
 
 ---
 
-# 🟩 **Animated GitHub Intelligence**
-
-![Ahmed GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedEnad-IT\&show_icons=true\&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEnad-IT\&layout=compact\&theme=chartreuse-dark)
-
----
 
 # 🟢 **Hacker Terminal**
 
