@@ -1,4 +1,4 @@
-# 🐍💻 **Ahmed Enad — Cybersecurity | Infrastructure | Full-Stack Engineering**
+# 🐍💻 **Ahmed Enad — Cybersecurity | Infrastructure | Networking | Active Directory | Cloud Deployment | Virtualization**
 
 <div align="center">
 
