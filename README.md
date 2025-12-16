@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=900&lines=Security+Engineer+%7C+Infra+Architect+%7C+Full-Stack+Developer;Breaking+%26+Hardening+Active+Directory;FortiGate+%7C+Azure+AD+%7C+OSCP+Path+Learner;Automating+Everything+I+Can+Automate;Hacking+%7C+Building+%7C+Optimizing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=900&lines=Security+Engineer+%7C+Infra+Architect+%7C+Network+Engineer;Breaking+%26+Hardening+Active+Directory;FortiGate+%7C+Azure+AD+%7C+OSCP+Path+Learner;Automating+Everything+I+Can+Automate;Hacking+%7C+Building+%7C+Optimizing)
 
 </div>
 
